@@ -28,7 +28,7 @@ function App() {
     <main>
       <h1>{user?.signInDetails?.loginId}'s account</h1>
       <h1>My account</h1>
-/*
+{/*
       <button onClick={createTodo}>+ new</button> 
       <ul>
         {todos.map((todo) => (<li 
@@ -36,7 +36,7 @@ function App() {
           key={todo.id}>{todo.content}</li>
         ))}
       </ul>
-*/
+*/}
       <div>
         🥳 App successfully hosted. Try creating a new todo.
         <br />
